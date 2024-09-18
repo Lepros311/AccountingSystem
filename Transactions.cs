@@ -1,4 +1,6 @@
-﻿public static class Transactions
+﻿namespace AccountingSystem;
+
+public static class Transactions
 {
     public static void Transfer(string transferDirection, Checking checking, Premium premium )
     {

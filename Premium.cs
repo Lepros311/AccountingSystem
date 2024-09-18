@@ -1,4 +1,6 @@
-﻿public class Premium : Checking
+﻿namespace AccountingSystem;
+
+public class Premium : Checking
 {
     public Premium(int accountId, decimal balance) : base(accountId, balance)
     {

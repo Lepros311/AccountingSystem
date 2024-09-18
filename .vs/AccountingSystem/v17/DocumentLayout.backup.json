@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9986771-E30D-4B1B-B6DA-3EEC1495D56E}|..\\UnitTests\\UnitTests.csproj|c:\\users\\andrew\\documents\\coding stuff\\c#\\ztm\\unittests\\checkingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|c:\\users\\andrew\\documents\\coding stuff\\c#\\ztm\\accountingsystem\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|solutionrelative:checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|c:\\users\\andrew\\documents\\coding stuff\\c#\\ztm\\accountingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|c:\\users\\andrew\\documents\\coding stuff\\c#\\ztm\\accountingsystem\\premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|solutionrelative:premium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|c:\\users\\andrew\\documents\\coding stuff\\c#\\ztm\\accountingsystem\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD4B53C-69B3-4DD4-ABEA-B9CF13D5DC8A}|AccountingSystem.csproj|solutionrelative:transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Transactions.cs",
+              "RelativeDocumentMoniker": "Transactions.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Transactions.cs",
+              "RelativeToolTip": "Transactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:59:17.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:57:20.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Premium.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Premium.cs",
+              "RelativeDocumentMoniker": "Premium.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Premium.cs",
+              "RelativeToolTip": "Premium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:56:53.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checking.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Checking.cs",
+              "RelativeDocumentMoniker": "Checking.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\AccountingSystem\\Checking.cs",
+              "RelativeToolTip": "Checking.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:46:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckingTest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\UnitTests\\CheckingTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTests\\CheckingTest.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Documents\\coding stuff\\C#\\ZTM\\UnitTests\\CheckingTest.cs",
+              "RelativeToolTip": "..\\UnitTests\\CheckingTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:25:17.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

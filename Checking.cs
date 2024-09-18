@@ -1,4 +1,6 @@
-﻿public class Checking
+﻿namespace AccountingSystem;
+
+public class Checking
 {
     public int AccountId { get; set; }
     public decimal Balance { get; set; }

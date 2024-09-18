@@ -1,4 +1,6 @@
-﻿Checking checking = new Checking(123456789, 0);
+﻿using AccountingSystem;
+
+Checking checking = new Checking(123456789, 0);
 Premium premium = new Premium(987654321, 0);
 
 string? userMenuChoice;
